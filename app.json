@@ -1,11 +1,11 @@
 {
-    "name": "Alya",
-    "description": "Alya is a Telegram Music Player Bot built using Python, leveraging Pyrogram and Py-Tgcalls for seamless music streaming.",
+    "name": "Mikey",
+    "description": "Mikey is a Telegram Music Player Bot built using Python, leveraging Pyrogram and Py-Tgcalls for seamless music streaming.",
     "keywords": [
         "python3",
         "telegram",
         "bot",
-        "Alya",
+        "Mikey",
         "MusicBot",
         "telegram-bot",
         "pyrogram"
