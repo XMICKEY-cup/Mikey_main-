@@ -23,7 +23,7 @@ OWNER_ID = 1922300745
 
 HEROKU_APP_NAME = None
 HEROKU_API_KEY = None
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/paradox-zenu/juily.git")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/CertifiedCoders/AnnieXMusic")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
