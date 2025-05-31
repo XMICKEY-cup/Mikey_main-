@@ -1,8 +1,0 @@
-{
-  "engines": {
-    "node": "16.x"
-  },
-  "scripts": {
-    "start": "bash start"
-  }
-}
