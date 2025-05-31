@@ -19,7 +19,7 @@ ASSUSERNAME = getenv("ASSUSERNAME", "𝑀ɪᴋᴇʏ ™ 𝐴𝑠𝑠ɪ𝑠ᴛᴀ
 EVALOP = list(map(int, getenv("EVALOP", "7763769567").split()))
 
 # ───── Mongo & Logging ───── #
-MONGO_DB_URI = getenv("mongodb+srv://Mikeyoni:Mikeyoni@mikeey.4mfktdn.mongodb.net/?retryWrites=true&w=majority&appName=MIKEEY")
+MONGO_DB_URI = getenv("mongodb+srv://shigarakisan:demnkin@cluster0.cxt4iov.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 LOGGER_ID = int(getenv("LOGGER_ID", -1002650359496))
 
 # ───── Limits and Durations ───── #
