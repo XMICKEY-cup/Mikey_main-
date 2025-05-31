@@ -5,14 +5,14 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = 29781465
-API_HASH = "6d1dabd000e85d9fbe0e84bb4302150b"
-BOT_TOKEN = "8063651886:AAG0HEo7E9Bu1Dh9kvndOQ10sYRoPuCSUS8"
+API_ID = 27042938
+API_HASH = "d66ce4b366c87eee3f0a06c64708c52c"
+BOT_TOKEN = "8063651886:AAEz9f8IBvA4H5rO5kgod70sE62NYb8q2OY"
 OWNER_USERNAME = "MIKEY_ONI"
 BOT_USERNAME = "x4Mikey_Music_bot"
 BOT_NAME = "Mɪᴋᴇʏ ™ ᴍᴜsɪᴄ ʙᴏᴛ"
-ASSUSERNAME = "Mikey_assistant"
-EVALOP = list(map(int, getenv("EVALOP", "7923226542").split()))
+ASSUSERNAME = "Mɪᴋᴇʏ ™ Assɪsᴛᴀɴᴛ"
+EVALOP = list(map(int, getenv("EVALOP", "7763769567").split()))
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://shigarakisan:demnkin@cluster0.cxt4iov.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 LOGGER_ID = -1002650359496
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
